@@ -1,0 +1,20 @@
+package: app/go-echo
+homepage: https://masterminds.github.io/glide
+license: MIT
+owners:
+- name: xuck
+  email: xuckdejiyi@163.com
+  homepage: 
+import:
+- package: github.com/labstack/echo
+  version: ^3.2.5
+- package: github.com/labstack/gommon
+  version: 
+- package: golang.org/x/crypto
+  version:
+  repo:    https://github.com/golang/crypto
+  vcs:     git
+- package: golang.org/x/sys
+  version: 
+  repo:    https://github.com/golang/sys
+  vcs:     git
