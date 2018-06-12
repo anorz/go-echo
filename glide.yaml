@@ -2,8 +2,8 @@ package: app/go-echo
 homepage: https://masterminds.github.io/glide
 license: MIT
 owners:
-- name: xuck
-  email: xuckdejiyi@163.com
+- name: anorz
+  email: i@anorz.com
   homepage: 
 import:
 - package: github.com/labstack/echo
